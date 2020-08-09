@@ -3,3 +3,7 @@
 # For Full documentation visit 
 
 https://medium.com/infinitbility/react-native-sqlite-storage-422503634dd2
+
+# Visit Platform
+
+https://infinitbility.com/
